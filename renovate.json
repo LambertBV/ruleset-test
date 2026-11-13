@@ -8,7 +8,7 @@
   "labels": ["renovate"],
   "automerge": true,
   "automergeType": "pr",
-  "platformAutomerge": true,
+  "platformAutomerge": false,
   "minimumReleaseAge": null,
   "packageRules": [
     {
